@@ -1,0 +1,51 @@
+h3 {
+    font-size: 1.125rem;
+}
+
+.page {
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 3.2em;
+}
+
+
+.water {
+    background-color:cornflowerblue;
+    margin: 0 auto 1em;
+    padding: .125em 1.125em;
+    border-radius: 20px;
+}
+
+.BMI {
+    background-color:cornflowerblue;
+    margin: 0 auto 1em;
+    padding: .125em 1.125em;
+    border-radius: 20px;
+}
+
+.HR {
+    background-color:cornflowerblue;
+        margin: 0 auto 1em;
+    padding: .125em 1.125em;
+    border-radius: 20px;
+}
+
+.WHR {
+    background-color:cornflowerblue;
+    margin: 0 auto 1em;
+    padding: .125em 1.125em;
+    border-radius: 20px;
+}
+
+.link {
+    text-decoration: none;
+    list-style: none;
+    color: bisque;
+}
+
+h3 {
+    background-color:cornflowerblue;
+}
